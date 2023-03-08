@@ -1,0 +1,14 @@
+/* BASIC STYLES HERE */
+
+
+.snack-card {
+    height: 150px;
+    width: 120px;
+    background-image: url(https://images.unsplash.com/photo-1613919113640-25732ec5e61f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+    transition: .2s ease;
+    
+}
+
+.snack-card:hover{
+    transform: scale(1.02);
+}
